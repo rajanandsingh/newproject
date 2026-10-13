@@ -1,2 +1,3 @@
 # newproject
-Adding some content
+Adding some more content in feature branch
+Adding line 2
